@@ -1,0 +1,3 @@
+Open the VicRoadsProject.sln Visual Studio Solution file using Visual Studio.
+Click on 'Build -> Build solution' to build the solution and download the necessary package dependencies.
+Click on 'Test -> Run all tests' to run the test scenario in the SelectPermitTypePage.Feature

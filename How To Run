@@ -1,3 +1,7 @@
 Open the VicRoadsProject.sln Visual Studio Solution file using Visual Studio.
 Click on 'Build -> Build solution' to build the solution and download the necessary package dependencies.
 Click on 'Test -> Run all tests' to run the test scenario in the SelectPermitTypePage.Feature
+
+Additionally, to run the code using command line (using nunit-console runner), use the below code,
+
+%userprofile%\.nuget\packages\nunit.consolerunner\3.12.0\tools\nunit3-console.exe %USERPROFILE%\Source\Repos\VicRoadsProject\VicRoadsProject\obj\Debug\netcoreapp3.1\VicRoadsProject.dll 
